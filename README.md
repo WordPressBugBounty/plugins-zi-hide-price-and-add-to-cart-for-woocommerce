@@ -1,0 +1,1 @@
+# plugins-zi-hide-price-and-add-to-cart-for-woocommerce
